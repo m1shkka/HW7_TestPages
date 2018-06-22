@@ -1,0 +1,16 @@
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\UnitTestForGoogle.dll
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\UnitTestForGoogle.pdb
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\WebDriver.dll
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\source\repos\Google_POM\UnitTestForGoogle\bin\Debug\WebDriver.xml
+D:\source\repos\Google_POM\UnitTestForGoogle\obj\Debug\UnitTestForGoogle.csprojAssemblyReference.cache
+D:\source\repos\Google_POM\UnitTestForGoogle\obj\Debug\UnitTestForGoogle.csproj.CoreCompileInputs.cache
+D:\source\repos\Google_POM\UnitTestForGoogle\obj\Debug\UnitTestForGoogle.csproj.CopyComplete
+D:\source\repos\Google_POM\UnitTestForGoogle\obj\Debug\UnitTestForGoogle.dll
+D:\source\repos\Google_POM\UnitTestForGoogle\obj\Debug\UnitTestForGoogle.pdb
